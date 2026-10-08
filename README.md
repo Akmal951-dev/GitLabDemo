@@ -1,1 +1,1 @@
-# GitLabDemoStudent: Your Name Akmal (4JK25IS014)
+# GitLabDemoStudent: Mohammad Akmal (4JK25IS014)
